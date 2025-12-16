@@ -17,4 +17,4 @@ Er wordt geoefend met besturingsstructuren, reken oefeningen en vergelijkingsoef
   - Bijvoorbeeld ``print(f'{john} is gelijk aan {john} : {john == john}')``
 
 ## Informatie over het project
-Dit is deels een EdHUb opdracht en lesvoorbereiding uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool Novi.
+Dit is deels een EdHUb opdracht en lesvoorbereiding uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool NOVI.
